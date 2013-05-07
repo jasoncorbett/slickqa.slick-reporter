@@ -19,7 +19,7 @@ setup(
     packages=find_packages(exclude=['distribute_setup']),
     package_data={'': ['*.txt', '*.rst', '*.html']},
     include_package_data=True,
-    install_requires=['slickqa>=2.0.16',],
+    install_requires=['slickqa>=2.0.27',],
     author="Slick Developers",
     url="http://code.google.com/p/slickqa",
     entry_points={

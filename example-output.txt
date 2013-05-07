@@ -1,0 +1,3 @@
+[PASS] | Query: ObjectID = 3 | Expected: 1, Actual: 1 | ElapsedMS: 5145
+[FAIL][CountMismatch] | Query: ObjectID = 4 | Expected: 0, Actual: 1 | ElapsedMS: 2485
+[PASS] | Query: foo | Expected: 0, Actual: 0 | ElapsedMS: 2736
